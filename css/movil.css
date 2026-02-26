@@ -275,7 +275,7 @@
 
     footer {
         margin-top: 20px;
-        background: linear-gradient(to bottom, #edc8ca, #7f2265);
+        background-color: #7f2265;
         height: 200px;
     }
 
@@ -431,5 +431,15 @@
 
     .btn img {
         width: 60px;
+    }
+
+
+
+
+
+    footer {
+        margin-top: 20px;
+        background-color: #7f2265;
+        height: 400px;
     }
 }
