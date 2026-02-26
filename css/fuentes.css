@@ -1,0 +1,53 @@
+header p {
+
+    font-family: "lust-script-display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.2rem;
+
+}
+
+nav li{
+
+    font-family: "ganache", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.4rem;
+}
+
+.title {
+
+    font-family: "ganache", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.7rem;
+}
+
+@media  screen and (min-width: 768px){
+    header p {
+
+    font-family: "lust-script-display", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3rem;
+
+}
+
+nav li{
+
+    font-family: "ganache", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.4rem;
+}
+
+.title {
+
+    font-family: "ganache", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.2rem;
+}
+
+
+}
